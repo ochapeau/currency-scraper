@@ -1,4 +1,4 @@
-# Currencies Scraping Script
+# Currency Scraper
 
 ## Description
 
